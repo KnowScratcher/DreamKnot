@@ -5,7 +5,7 @@ DreamKnot 是一個基於Python的進階程式語言
 [English](../README.md) | 台灣中文 
 
 # 告訴我們你的夢想
-填寫[此表單](https://forms.gle/XWxE8HftuyitmGeA7)來讓我們知道你想要什麼樣的語法
+填寫[此表單](https://forms.gle/XWxE8HftuyitmGeA7)來讓我們知道你想要什麼樣的語法，我們會儘量依照大家的填表的方式設計此語言
 
 # 我們幫你多做一點
 我們希望讓任何人都能輕鬆進行程式設計。
