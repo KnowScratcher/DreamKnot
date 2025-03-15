@@ -99,3 +99,6 @@ Constant Constant Constant cannot be changed anyway, and it's assigned globally.
 const const const pi = "3.14"
 ```
 **Note:** It's very dangerous to use `const const const` because will affect all the file ran forever.
+
+# Contribution
+Please refer to [CONTRIBUTE.md](/CONTRIBUTE.md)

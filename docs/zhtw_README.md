@@ -99,3 +99,6 @@ const const 名稱 = "KS"
 const const const pi = "3.14" 複製程式碼
 ```
 **注意:** 使用"const const const"非常危險，因為會永久影響所有檔案的執行。
+
+# 貢獻
+請參閱[CONTRIBUTE.md(英文)](/CONTRIBUTE.md)
