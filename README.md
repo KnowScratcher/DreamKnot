@@ -1,6 +1,8 @@
 # DreamKnot
 DreamKnot is an advanced programming language based on Python.
 
+Dream is not a dream anymore!!!
+
 ⚠️DreamKnot is not completed yet, it's only a draft for now, we're sorry for any inconvenience.⚠️
 
 # More Languages
@@ -80,6 +82,109 @@ You can also specify the type of the input
 myInput = input int
 ```
 
+## String
+Use double quote to declare a string.
+```dk
+myString = "hello"
+```
+or you can use single quote
+```dk
+myString = 'hello'
+```
+or triple quote
+```dk
+myString = '''hello'''
+myString = "'hello'"
+```
+or even zero
+```dk
+myString = hello
+```
+
+A string is a list of characters.
+You can use the indexing mark to get the characters.
+```dk
+myString = "KnowScratcher"
+myString[1] //K
+```
+
+## Number
+A number is like what it says.
+```dk
+myNumber = 123
+pi = 3.14
+```
+
+As string is an list of characters, a number is a list of digits.
+You can also use the indexing mark to get the digits.
+```dk
+myNumber = 567
+myNumber[2] //6
+```
+
+## List
+Use `[]` to make an list
+```dk
+myList = [1,2,3]
+```
+
+You can even place different type of data in the same list
+```dk
+myList = [1,hello,True]
+```
+
+Lists start at 1, if you prefer to start at 0, please write `l:0` at the first line.
+
+Actually you can set your list start index, but it only works in the first line.
+```dk
+l:0  //list starts at 0
+l:1  //list starts at 1
+l:-1 //list starts at -1
+l:a  //this will be ignore
+```
+
+`[]` can also be indexing mark.
+```dk
+myList = [5,4,3,2,1]
+myList[4] //2
+```
+
+You can also edit the value located.
+```dk
+myList = [5,4,3,2,1]
+myList[4] = 10 //[5,4,3,10,1]
+```
+
+Of course index can be float.
+If there are no value in the index, 0 will be returned
+```dk
+myList = [5,4,3,2,1]
+myList[4.5] // 0
+myList[4.5] = 10 //[5,4,3,2,10,1]
+```
+
+To get the length, you can use `.length`
+```dk
+myList.length
+```
+or `len`
+```dk
+len myList
+len(myList)
+// both is ok
+```
+
+## Array
+An arrays is the same as list, just to make some feel better because they want to use array instead of list.
+
+## Dictionary
+key-value pairs
+
+use `{}` to declare a dictionary and use `,` to separate pairs.
+```dk
+myDict = {1:one,2:two,3:three}
+```
+
 # Advanced
 ## Constants
 There are three types of constant.
@@ -99,6 +204,16 @@ Constant Constant Constant cannot be changed anyway, and it's assigned globally.
 const const const pi = "3.14"
 ```
 **Note:** It's very dangerous to use `const const const` because will affect all the file ran forever.
+
+## Parentheses
+parentheses doesn't do anything in DreamKnot, instead, it's replaced with a white space.
+So the following code works the same.
+```dk
+print(hello)  // hello
+print hello   // hello
+print()hello  // hello
+print)hello(  // hello
+```
 
 # Contribution
 Please refer to [CONTRIBUTE.md](/CONTRIBUTE.md)
