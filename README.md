@@ -1,2 +1,2 @@
 # DreamKnot
-DreamKnot is a advanced programming language based on Python
+DreamKnot is an advanced programming language based on Python
