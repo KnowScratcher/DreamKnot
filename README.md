@@ -2,7 +2,7 @@
 DreamKnot is an advanced programming language based on Python.
 
 # More Languages
-English | [中文](/docs/zhtw_README.md)
+English | [台灣中文](/docs/zhtw_README.md)
 
 # Tell us your dream
 fill out the [form(Traditional Chinese)](https://forms.gle/XWxE8HftuyitmGeA7) to let us know what you want.
