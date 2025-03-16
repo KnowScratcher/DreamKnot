@@ -98,7 +98,7 @@ myString ="'你好'"
 ```
 甚至不用引號
 ```dk
-我的字串=你好
+myString = 你好
 ```
 
 字串是一串字元。
@@ -170,7 +170,7 @@ myList.length
 或 `len`
 ```dk
 len myList
-len（我的清單）
+len(myList)
 // 都可以
 ```
 
