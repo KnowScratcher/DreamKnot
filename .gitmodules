@@ -1,0 +1,3 @@
+[submodule "vscode-extension/vscode-extension/dreamknot"]
+	path = vscode-extension/vscode-extension/dreamknot
+	url = https://KnowScratcher@github.com/KnowScratcher/DreamKnot-vscode-extension.git
