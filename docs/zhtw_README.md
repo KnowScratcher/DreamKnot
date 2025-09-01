@@ -5,6 +5,8 @@ Dream is not a dream anymore!!!
 
 ⚠️DreamKnot還沒完成，目前是草稿狀態，造成不便，敬請見諒⚠️
 
+🧭目前正在與法蒐集階段，若您有興趣，請幫忙填一下[這個表單](https://forms.gle/XWxE8HftuyitmGeA7)🧭
+
 # 更多語言
 [English](../README.md) | 台灣中文 
 
@@ -21,7 +23,7 @@ Dream is not a dream anymore!!!
 所以請相信我們，我們將使這一切變得簡單。
 
 對於經驗豐富的程式設計師來說，有些語法可能看起來很奇怪，但實際上非常簡單，只需看下面的例子。
-
+<!--
 # 基礎知識
 ## 語法
 DreamKnot 沒有嚴格的語法規則。 （至少目前是如此）
@@ -217,3 +219,4 @@ print)你好(   //你好
 
 # 貢獻
 請參閱[CONTRIBUTE.md(英文)](/CONTRIBUTE.md)
+-->
