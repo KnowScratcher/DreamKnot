@@ -5,6 +5,8 @@ Dream is not a dream anymore!!!
 
 ⚠️DreamKnot is not completed yet, it's only a draft for now, we're sorry for any inconvenience.⚠️
 
+🧭Now collecting response for syntax, if you like, fill [this form](https://forms.gle/XWxE8HftuyitmGeA7) in.
+
 # More Languages
 English | [台灣中文](/docs/zhtw_README.md)
 
@@ -21,7 +23,7 @@ We believe you should spend less time thinking about how to code and spend more 
 So trust us, we're going to make this easy.
 
 Some syntax might seem weird for experienced programmers, but it's actually very simple, just look at the examples below.
-
+<!--
 # Basics
 ## Syntax
 DreamKnot doesn't have strict syntax rules. (at least for now)
@@ -217,3 +219,4 @@ print)hello(  // hello
 
 # Contribution
 Please refer to [CONTRIBUTE.md](/CONTRIBUTE.md)
+-->
